@@ -1,0 +1,2 @@
+cd Documents/GitHub/git_first_project/git_first_file
+git add .git_first_filegit commit -m "added first file"
